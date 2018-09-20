@@ -1,0 +1,6 @@
+#!/bin/sh
+# Place commands to run here
+timeout 10 echo Hello from dynmotd
+
+# zero exit status
+true
